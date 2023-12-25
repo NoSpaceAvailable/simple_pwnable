@@ -26,7 +26,7 @@ int main(){
     if (checkCredential() == isUser){
         printf("Login successfully.\n" 
                 "Here is your secret: " 
-                "NB2HI4DTHIXS6YTJORWHSLTXOMXTGNZXN5GA====\n");
+                "NB2HI4DTHIXS66LPOV2HKLTCMUXWIULXGR3TSV3HLBRVCP3TNE6UKYZWJZHVC4KNOVFHK5SZJRFHC===\n");
     }
     else{
         adminPanel();
